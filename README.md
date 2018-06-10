@@ -7,6 +7,11 @@ I worked in a team of four, where we developed a website using ServiceNow's web 
 The website allowed the user to track their bike and know if it was stolen or safe. 
 For the purpose of demonstration, we used smartphones with GPS enabled to act as sensors, with the ServiceNow app communicating the location with the instance we developed. 
 
-My role involved designing all the webpages(HTML, CSS), leveraging ServiceNow's tools to link the webpages, handle widgets, and designing the presentation.
+My role involved coding, building on the ServiceNow platform, and designing the presentation.
+
+I Used HTML5, CSS, and JavaScript to model and add functionality to the website. 
+We Used Google Maps to visualize the location of the bike.
+I Used the ServiceNow platform to integrate and design web portals for the various webpages and implement the in-built Geolocation feature.
+
 
 My team placed first and won $1000 worth of Amazon credit. 
